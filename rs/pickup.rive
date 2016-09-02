@@ -1,0 +1,6 @@
+// Converted using aiml2rs on: Fri Sep  2 10:15:50 2016
+! version = 2.0
+
++ *
+- {@random pickup line} <set alicetopic=<person>> {@push <get topic>} 
+
